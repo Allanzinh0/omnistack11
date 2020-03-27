@@ -1,0 +1,34 @@
+[
+    {
+        "id": "a179ee9d",
+        "name": "APAD",
+        "email": "contato@apad.com.br",
+        "whatsapp": "47000000000",
+        "city": "Rio do Sul",
+        "uf": "SC"
+    },
+    {
+        "id": "dd048032",
+        "name": "APAD2",
+        "email": "contato@apad.com.br",
+        "whatsapp": "47000000000",
+        "city": "Rio do Sul",
+        "uf": "SC"
+    },
+    {
+        "id": "3352895a",
+        "name": "Nova ONG",
+        "email": "ong@ong.com",
+        "whatsapp": "11900000000",
+        "city": "São Paulo",
+        "uf": "SP"
+    },
+    {
+        "id": "4c8525d7",
+        "name": "Nova ONG 2",
+        "email": "ong@ong.com.br",
+        "whatsapp": "19995396411",
+        "city": "Campinas",
+        "uf": "SP"
+    }
+]
